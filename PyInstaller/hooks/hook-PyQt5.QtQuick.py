@@ -12,6 +12,7 @@ hiddenimports = ['sip',
                  'PyQt5.QtCore',
                  'PyQt5.QtQml',
                  'PyQt5.QtGui',
+                 'PyQt5.QtChart',
                  'PyQt5.QtNetwork'
                  ]
 
@@ -30,6 +31,7 @@ dirs = ['Qt',
         'QtQml',
         'QtQuick',
         'QtQuick.2',
+        'QtCharts',
         #'QtSensors',
         #'QtTest'
         ]
